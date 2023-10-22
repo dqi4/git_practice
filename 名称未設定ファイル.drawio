@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T05:57:12.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="WBH6hYKTfG-5iHJvFvqK" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T06:00:55.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="6PyycjT-9qTKJLtMDwqm" version="22.0.6" type="github" pages="2">
   <diagram name="ページ1" id="IavY6asuSAmqTNVyRqeL">
     <mxGraphModel dx="431" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,6 +112,26 @@
           <mxGeometry x="0.1312" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J7nK7OMWCxpNCLTdfzYo" name="ページ2">
+    <mxGraphModel dx="732" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iSEpyxGXL0IkaeLTLkTw-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSEpyxGXL0IkaeLTLkTw-2" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="290" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iSEpyxGXL0IkaeLTLkTw-3" value="タスク管理システム" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff1414;" vertex="1" parent="1">
+          <mxGeometry x="285" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iSEpyxGXL0IkaeLTLkTw-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="230" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T14:21:10.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="WzOqCyg94WoXGC4RbvJ0" version="22.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-28T09:01:48.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="ooo8IwlcDC0gdl0RdtnZ" version="22.0.6" type="github" pages="5">
   <diagram name="コンテキスト図" id="IavY6asuSAmqTNVyRqeL">
-    <mxGraphModel dx="946" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,7 +120,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J7nK7OMWCxpNCLTdfzYo" name="ユースケース図">
-    <mxGraphModel dx="946" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fTZoyrcLIqS0fSQtpjQE" name="状態遷移図">
-    <mxGraphModel dx="946" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2FX8PYgZ7TZVa-3KEDG4" name="アクティビティ図">
-    <mxGraphModel dx="946" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -543,14 +543,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iyy2XL9tPMcIWwEy775p" name="ドメインモデル、オブジェクト図">
-    <mxGraphModel dx="2178" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-2" value="■ドメインモデル&lt;br&gt;登場する概念(人,もの,ルール)を体系的に整理する" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-40" width="520" height="70" as="geometry" />
+        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-2" value="■ドメインモデル&lt;br&gt;登場する概念(人,もの,ルール)を体系的に整理する&lt;br&gt;あくまでも概念的なモデル図" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-100" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-3" value="■オブジェクト図&lt;br&gt;格納されるデータがどのような形式なのか記述する" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-3" value="■オブジェクト図&lt;br&gt;格納されるデータがどのような形式なのか記述する&lt;br&gt;ドメインモデルの具体化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-169" y="530" width="499" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF3333;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-4" target="pMIHlPzGbvKbHxV-aI1Q-22">
@@ -727,10 +727,13 @@
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF3333;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="pMIHlPzGbvKbHxV-aI1Q-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="pMIHlPzGbvKbHxV-aI1Q-54">
+        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="pMIHlPzGbvKbHxV-aI1Q-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="pMIHlPzGbvKbHxV-aI1Q-56">
+        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="pMIHlPzGbvKbHxV-aI1Q-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF3333;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-49" target="1HwAyGfJn1UCgYNG1ZV6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;プロジェクト&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・A社XX案件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・2023/09/01&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・2024/09/01&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -739,17 +742,67 @@
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-50" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;マイルストーン&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Phase1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・2023/09/01&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・2023/11/30&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-120" y="880" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-51" target="pMIHlPzGbvKbHxV-aI1Q-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;マイルストーン&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Phase2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;・2023/12/01&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;・2024/01/30&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="880" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;タスク&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・タスクA&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・～～を実装&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・未着手&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・～～URL&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-54" target="1HwAyGfJn1UCgYNG1ZV6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;タスク&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・タスクA&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・QCD管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・未着手&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・～～URL&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="370" y="630" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pMIHlPzGbvKbHxV-aI1Q-55" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;社員&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・氏名&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・Email&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・Password&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・役割&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="690" y="720" width="200" height="120" as="geometry" />
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-56" target="1HwAyGfJn1UCgYNG1ZV6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="pMIHlPzGbvKbHxV-aI1Q-56" target="1HwAyGfJn1UCgYNG1ZV6-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMIHlPzGbvKbHxV-aI1Q-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;タスク&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・タスクB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・～～の設計&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・作業中&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・～～URL&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="370" y="790" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-1" target="pMIHlPzGbvKbHxV-aI1Q-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;社員&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・田中A&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・tanaka_a@gmail.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・AAAA&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・PM&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;社員&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・田中B&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・tanaka_b@gmail.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・BBBB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・DEV&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-5" target="1HwAyGfJn1UCgYNG1ZV6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-5" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;社員&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・田中D&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・tanaka_d@gmail.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・DDDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・DEV&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="910" y="790" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-6" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;社員&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・田中C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・tanaka_c@gmail.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・CCCC&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;・PMO&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="910" y="630" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-9" target="1HwAyGfJn1UCgYNG1ZV6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-9" target="1HwAyGfJn1UCgYNG1ZV6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;スレッド&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・作成日&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・作成者&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・宛先&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・タイトル&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・本文&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・解決フラグ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="980" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-10" target="1HwAyGfJn1UCgYNG1ZV6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;" edge="1" parent="1" source="1HwAyGfJn1UCgYNG1ZV6-10" target="1HwAyGfJn1UCgYNG1ZV6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HwAyGfJn1UCgYNG1ZV6-10" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px; background-color: initial;&quot;&gt;返信&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・作成日&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・投稿者&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・宛先&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・本文&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="980" width="200" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
